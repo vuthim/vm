@@ -1,0 +1,54 @@
+h1,h2,h3{
+    color: rgb(42, 115, 133);
+}
+p{
+   font-style: italic;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font: optional;
+   font-size:medium;
+   font-weight: bolder;
+   animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+
+}
+ol{
+    font-size: larger;
+}
+#ghvm{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ghvm{
+    color: rgb(199, 32, 32);
+    font-size:larger;
+}
+#um{
+    font-style:italic;
+    color: brown;
+
+}
+#vm{
+   width: 80%; 
+   text-align: center;
+   border-collapse: collapse;
+}
+#vm th,td{
+    border: 1px dotted black;
+    padding: 6px;
+}
+#vm th{
+    font-display:inherit;
+}
+.vm{
+    width: 80%; 
+    text-align: center;
+    border-collapse: collapse;
+ }
+ .vm th,td{
+     border: 1px dotted black;
+     padding: 6px;
+ }
+ .vm th{
+     font-display:inherit;
+     line-break: loose;
+ }
+ 
